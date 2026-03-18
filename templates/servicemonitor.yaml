@@ -7,7 +7,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app.kubernetes.io/name: end-2-end-project
+      app.kubernetes.io/name: devops-app-dev
   endpoints:
     - port: http
       path: /metrics
