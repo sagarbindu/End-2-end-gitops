@@ -1,5 +1,5 @@
 image:
-  tag: "25"
+  tag: "14"
 
 # This is for setting up a service more information can be found here: https://kubernetes.io/docs/concepts/services-networking/service/
 service:
