@@ -1,5 +1,5 @@
 image:
-  tag: "5dbfaf35a540452fd301952f28cc406aeb55a071"
+  tag: "d0d2157ba12a67e3fbf4199718b41dc767a4116b"
 
 # This is for setting up a service more information can be found here: https://kubernetes.io/docs/concepts/services-networking/service/
 service:
