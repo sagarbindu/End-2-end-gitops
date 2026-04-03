@@ -1,5 +1,5 @@
 image:
-  tag: "d96d7e746cbb42e744bab764f3433c8b0b60ec53"
+  tag: "201c86d46371f1b90230abc6d17516da0caba971"
 
 # This is for setting up a service more information can be found here: https://kubernetes.io/docs/concepts/services-networking/service/
 service:
@@ -7,4 +7,4 @@ service:
   type: ClusterIP
   # This sets the ports more information can be found here: https://kubernetes.io/docs/concepts/services-networking/service/#field-spec-ports
   port: 3000
-previousTag: "13ccc980699139940ba3d9f6e6716fe885bb5566"
+previousTag: "d96d7e746cbb42e744bab764f3433c8b0b60ec53"
